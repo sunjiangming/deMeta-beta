@@ -15,7 +15,7 @@ Other cases during daily research may also poped up. For example, you have two s
 # Getting Started
 - Clone this repository using the following git command:
 
-  `git clone https://github.com/Computational-NeuroGenetics/deMeta`
+  `git clone https://github.com/Computational-NeuroGenetics/deMeta-beta`
 
 - Dependencies:
   
